@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1704997615 source:c:\users\stoi\desktop\faculta\proiect 2+3\librar.cpp
+	"librar.h"
+	<iostream>
+
+1705422006 source:c:\users\stoi\desktop\faculta\proiect 2+3\main.cpp
+	"student.h"
+	"profesor.h"
+	"librar.h"
+	"utilizator.h"
+	"singleton.h"
+	"FunctiiUtilitare.h"
+	<vector>
+	<iostream>
+
+1704983388 source:c:\users\stoi\desktop\faculta\proiect 2+3\profesor.cpp
+	"profesor.h"
+	<iostream>
+
+1704983357 source:c:\users\stoi\desktop\faculta\proiect 2+3\student.cpp
+	"student.h"
+	<iostream>
+
+1704999987 source:c:\users\stoi\desktop\faculta\proiect 2+3\utilizator.cpp
+	"utilizator.h"
+	<iostream>
+
+1704999976 c:\users\stoi\desktop\faculta\proiect 2+3\utilizator.h
+	<string>
+	<memory>
+	"SINGLETON.H"
+
+1704997615 c:\users\stoi\desktop\faculta\proiect 2+3\student.h
+	"utilizator.h"
+
+1704997615 c:\users\stoi\desktop\faculta\proiect 2+3\profesor.h
+	"utilizator.h"
+
+1704997615 c:\users\stoi\desktop\faculta\proiect 2+3\librar.h
+	"utilizator.h"
+
+1704994100 source:c:\users\stoi\desktop\faculta\proiect 2+3\singleton.cpp
+	"Singleton.h"
+	<iostream>
+
+1704992245 c:\users\stoi\desktop\faculta\proiect 2+3\singleton.h
+
+1704995950 source:c:\users\stoi\desktop\faculta\proiect 2+3\functiiutilitare.cpp
+	"FunctiiUtilitare.h"
+
+1704997385 c:\users\stoi\desktop\faculta\proiect 2+3\functiiutilitare.h
+	<iostream>
+	<vector>
+
+1704999769 c:\users\stoi\desktop\faculta\proiect 2+3\attemptiterator.h
+	<string>
+
