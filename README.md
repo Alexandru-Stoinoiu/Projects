@@ -1,5 +1,5 @@
 Welcome!
-Hello! I am Stoinoiu Alexandru-Cristian, a second-year student at the University of Bucharest, Faculty of Mathematics and Computer Science, studying CTI (Computer Science for Engineering). This is where I store the projects and experiments I work on during my studies.
+I am Stoinoiu Alexandru-Cristian, a second-year student at the University of Bucharest, Faculty of Mathematics and Computer Science, studying CTI (Computer Science for Engineering). This is where I store the projects and experiments I work on during my studies.
 
 About this repository
 This repository contains various projects that I develop throughout the academic year. You'll find both course-related projects as well as personal projects or experiments with new technologies.
